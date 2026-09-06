@@ -5,6 +5,7 @@
 programa
 r10
 r13-memoria/arreglo
+r19-stl/r19
 # Sistema operativo y editor
 .DS_Store
 .vscode/
