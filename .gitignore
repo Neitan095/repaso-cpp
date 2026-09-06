@@ -3,7 +3,8 @@
 *.out
 *.exe
 programa
-
+r10
+r13-memoria/arreglo
 # Sistema operativo y editor
 .DS_Store
 .vscode/
