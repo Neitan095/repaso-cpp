@@ -1,0 +1,10 @@
+# Binarios y objetos
+*.o
+*.out
+*.exe
+programa
+
+# Sistema operativo y editor
+.DS_Store
+.vscode/
+*.dSYM/
